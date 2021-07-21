@@ -3,7 +3,7 @@ $(document).ready(function() {
 
 
 
-    let registerUserWebService = API_DOMAIN + '/api/v1/user_interface/register';
+    let registerUserWebService = API_DOMAIN + '/v1/users';
 
 
 
